@@ -1,0 +1,41 @@
+# Maven build directory
+/target/
+
+# IDE directories
+/.idea/
+/.vscode/
+
+# Eclipse project files
+/.project
+/.classpath
+/.settings/
+
+# IntelliJ project files
+/.idea/
+*.iml
+
+# Quarkus native build output
+/native-image/
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+.mvn/
+.mvn/wrapper/
+
+# Java class files
+*.class
+
+# IntelliJ files
+*.iml
+.idea/
+
+# Other
+*.jar
+*.war
+*.ear
